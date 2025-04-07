@@ -1,0 +1,157 @@
+{
+    "rice": {
+      "season": "Kharif",
+      "soil": "Clayey",
+      "water_requirement": "High",
+      "temperature": "Warm",
+      "growing_period": "120-150 days"
+    },
+    "maize": {
+      "season": "Kharif/Rabi",
+      "soil": "Well-drained loamy",
+      "water_requirement": "Moderate",
+      "temperature": "Warm",
+      "growing_period": "90-120 days"
+    },
+    "chickpea": {
+      "season": "Rabi",
+      "soil": "Loamy",
+      "water_requirement": "Low",
+      "temperature": "Cool",
+      "growing_period": "100-110 days"
+    },
+    "kidneybeans": {
+      "season": "Kharif",
+      "soil": "Sandy loam",
+      "water_requirement": "Moderate",
+      "temperature": "Warm",
+      "growing_period": "90-100 days"
+    },
+    "pigeonpeas": {
+      "season": "Kharif",
+      "soil": "Loamy",
+      "water_requirement": "Low to Moderate",
+      "temperature": "Warm",
+      "growing_period": "150-200 days"
+    },
+    "mothbeans": {
+      "season": "Kharif",
+      "soil": "Sandy loam",
+      "water_requirement": "Low",
+      "temperature": "Hot & Dry",
+      "growing_period": "60-70 days"
+    },
+    "mungbean": {
+      "season": "Kharif/Rabi",
+      "soil": "Well-drained loamy",
+      "water_requirement": "Low",
+      "temperature": "Warm",
+      "growing_period": "60-75 days"
+    },
+    "blackgram": {
+      "season": "Kharif",
+      "soil": "Loamy",
+      "water_requirement": "Low",
+      "temperature": "Warm",
+      "growing_period": "90-120 days"
+    },
+    "lentil": {
+      "season": "Rabi",
+      "soil": "Loamy",
+      "water_requirement": "Moderate",
+      "temperature": "Cool",
+      "growing_period": "110-130 days"
+    },
+    "pomegranate": {
+      "season": "Perennial",
+      "soil": "Loamy",
+      "water_requirement": "Moderate",
+      "temperature": "Warm",
+      "growing_period": "150-180 days"
+    },
+    "banana": {
+      "season": "Perennial",
+      "soil": "Fertile loamy",
+      "water_requirement": "High",
+      "temperature": "Warm",
+      "growing_period": "9-12 months"
+    },
+    "mango": {
+      "season": "Perennial",
+      "soil": "Well-drained loamy",
+      "water_requirement": "Moderate",
+      "temperature": "Tropical",
+      "growing_period": "3-5 years"
+    },
+    "grapes": {
+      "season": "Perennial",
+      "soil": "Well-drained loamy",
+      "water_requirement": "Moderate",
+      "temperature": "Warm",
+      "growing_period": "150-180 days"
+    },
+    "watermelon": {
+      "season": "Summer",
+      "soil": "Sandy loam",
+      "water_requirement": "High",
+      "temperature": "Hot",
+      "growing_period": "80-90 days"
+    },
+    "muskmelon": {
+      "season": "Summer",
+      "soil": "Sandy loam",
+      "water_requirement": "High",
+      "temperature": "Hot",
+      "growing_period": "70-100 days"
+    },
+    "apple": {
+      "season": "Perennial",
+      "soil": "Well-drained loamy",
+      "water_requirement": "Moderate",
+      "temperature": "Cold",
+      "growing_period": "3-5 years"
+    },
+    "orange": {
+      "season": "Perennial",
+      "soil": "Well-drained sandy loam",
+      "water_requirement": "Moderate",
+      "temperature": "Warm",
+      "growing_period": "3-4 years"
+    },
+    "papaya": {
+      "season": "Perennial",
+      "soil": "Fertile loamy",
+      "water_requirement": "High",
+      "temperature": "Tropical",
+      "growing_period": "9-12 months"
+    },
+    "coconut": {
+      "season": "Perennial",
+      "soil": "Sandy loam",
+      "water_requirement": "High",
+      "temperature": "Tropical",
+      "growing_period": "6-7 years"
+    },
+    "cotton": {
+      "season": "Kharif",
+      "soil": "Black soil",
+      "water_requirement": "Moderate",
+      "temperature": "Warm",
+      "growing_period": "150-180 days"
+    },
+    "jute": {
+      "season": "Kharif",
+      "soil": "Alluvial soil",
+      "water_requirement": "High",
+      "temperature": "Warm & Humid",
+      "growing_period": "120-150 days"
+    },
+    "coffee": {
+      "season": "Perennial",
+      "soil": "Well-drained loamy",
+      "water_requirement": "Moderate",
+      "temperature": "Cool & Humid",
+      "growing_period": "3-4 years"
+    }
+  }
+  
