@@ -90,23 +90,12 @@ flutter run
 
 ---
 
-## 🤝 Contribution Guidelines
-
-1. **Fork** the repository.
-2. **Create a new branch** for your feature or bugfix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. **Make your changes** and test thoroughly.
-4. **Commit** with a clear message:
-   ```bash
-   git commit -m "Add: feature description"
-   ```
-5. **Push** your branch and open a **Pull Request**.
-6. Follow standard **naming conventions** and maintain **clean code**.
+🖼️ App UI Screenshots
+Screen	Preview
+👤 User Login Page	
+🏠 Home Screen	
+👥 Profile Page	
+📞 Helpline Page	
+🌾 Crop Recommendation Page	
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
