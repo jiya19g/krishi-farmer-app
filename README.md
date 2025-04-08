@@ -61,10 +61,10 @@ A smart farming assistant platform designed to **empower Indian farmers** by del
 | Page | Screenshot |
 |------|------------|
 | **User Login Page** | ![Userloginpage](https://github.com/user-attachments/assets/a00c8598-3583-4e35-9d37-1344f1aa2af4) |
-| **Home Screen** | ![Home Screen](screenshots/home.png) |
-| **Profile Page** | ![Profile](screenshots/profile.png) |
-| **Helpline Page** | ![Helpline](screenshots/helpline.png) |
-| **Crop Recommendation Page** | ![Crop Recommendation](screenshots/crop_recommendation.png) |
+| **Home Screen** | ![Homescreenpage](https://github.com/user-attachments/assets/a7ad7a14-3c4c-42d4-9d0e-4a6965525c1f) |
+| **Profile Page** | ![Profilepage](https://github.com/user-attachments/assets/d4d97d91-5a59-489d-bf43-0fc45b30dc5c) |
+| **Helpline Page** | ![Helplinepage](https://github.com/user-attachments/assets/55a0f1a1-30c4-4cfb-be8b-617cbe5f6036) |
+| **Crop Recommendation Page** | ![Croprecoomendationpage](https://github.com/user-attachments/assets/143fef5a-6cdb-4bb6-bbd8-862ab2adcb00) |
 
 > 📸 *Place your UI screenshots inside the `screenshots/` folder in the root directory of your project.*
 
