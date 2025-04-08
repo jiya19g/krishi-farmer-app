@@ -66,7 +66,6 @@ A smart farming assistant platform designed to **empower Indian farmers** by del
 | **Helpline Page** | ![Helplinepage](https://github.com/user-attachments/assets/55a0f1a1-30c4-4cfb-be8b-617cbe5f6036) |
 | **Crop Recommendation Page** | ![Croprecoomendationpage](https://github.com/user-attachments/assets/143fef5a-6cdb-4bb6-bbd8-862ab2adcb00) |
 
-> 📸 *Place your UI screenshots inside the `screenshots/` folder in the root directory of your project.*
 
 ---
 
