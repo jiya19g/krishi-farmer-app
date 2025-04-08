@@ -11,6 +11,7 @@ A smart farming assistant platform designed to **empower Indian farmers** by del
 - [🚀 Features](#-features)
 - [✨ Novelty](#-novelty)
 - [🛠️ Tech Stack](#️-tech-stack)
+- [🖼️ UI Screenshots](#️-ui-screenshots)
 - [🔐 .env Configuration](#-env-configuration)
 - [📦 Setup Instructions](#-setup-instructions)
 - [🤝 Contribution Guidelines](#-contribution-guidelines)
@@ -55,6 +56,20 @@ A smart farming assistant platform designed to **empower Indian farmers** by del
 
 ---
 
+## 🖼️ UI Screenshots
+
+| Page | Screenshot |
+|------|------------|
+| **User Login Page** | ![User Login](screenshots/login.png) |
+| **Home Screen** | ![Home Screen](screenshots/home.png) |
+| **Profile Page** | ![Profile](screenshots/profile.png) |
+| **Helpline Page** | ![Helpline](screenshots/helpline.png) |
+| **Crop Recommendation Page** | ![Crop Recommendation](screenshots/crop_recommendation.png) |
+
+> 📸 *Place your UI screenshots inside the `screenshots/` folder in the root directory of your project.*
+
+---
+
 ## 🔐 .env Configuration
 
 Create a `.env` file in the root directory:
@@ -90,12 +105,23 @@ flutter run
 
 ---
 
-🖼️ App UI Screenshots
-Screen	Preview
-👤 User Login Page	
-🏠 Home Screen	
-👥 Profile Page	
-📞 Helpline Page	
-🌾 Crop Recommendation Page	
+## 🤝 Contribution Guidelines
+
+1. **Fork** the repository.
+2. **Create a new branch** for your feature or bugfix:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Make your changes** and test thoroughly.
+4. **Commit** with a clear message:
+   ```bash
+   git commit -m "Add: feature description"
+   ```
+5. **Push** your branch and open a **Pull Request**.
+6. Follow standard **naming conventions** and maintain **clean code**.
 
 ---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
